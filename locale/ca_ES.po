@@ -1,0 +1,141 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:helpdesk,purchases:"
+msgid "Purchases"
+msgstr "Compras"
+
+msgctxt "field:helpdesk.configuration,smtp_purchase:"
+msgid "SMTP Purchase Server"
+msgstr "Servidor SMTP de compra"
+
+msgctxt "field:purchase.purchase.helpdesk,create_date:"
+msgid "Create Date"
+msgstr "Data de creació"
+
+msgctxt "field:purchase.purchase.helpdesk,create_uid:"
+msgid "Create User"
+msgstr "Usuari de creació"
+
+msgctxt "field:purchase.purchase.helpdesk,helpdesk:"
+msgid "Helpdesk"
+msgstr "Suport"
+
+msgctxt "field:purchase.purchase.helpdesk,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:purchase.purchase.helpdesk,rec_name:"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "field:purchase.purchase.helpdesk,purchase:"
+msgid "Purchase"
+msgstr "Compra"
+
+msgctxt "field:purchase.purchase.helpdesk,write_date:"
+msgid "Write Date"
+msgstr "Data de modificació"
+
+msgctxt "field:purchase.purchase.helpdesk,write_uid:"
+msgid "Write User"
+msgstr "Usuari de modificació"
+
+msgctxt "model:ir.action,name:"
+msgid "All Helpdesks"
+msgstr "Tots els suports"
+
+msgctxt "model:ir.action,name:act_all_purchase_helpdesk"
+msgid "All Helpdesks"
+msgstr "Tots els suports"
+
+msgctxt "model:ir.action,name:act_purchase_helpdesk"
+msgid "Helpdesks"
+msgstr "Suport"
+
+msgctxt "model:ir.action,name:act_purchase_helpdesk_form2"
+msgid "Purchase Helpdesks"
+msgstr "Suport de compras"
+
+msgctxt "model:ir.action,name:act_purchase_helpdesk_manager"
+msgid "Purchase Helpdesks"
+msgstr "Suport de compras"
+
+msgctxt "model:ir.action,name:act_purchase_helpdesk_purchase_form"
+msgid "Helpdesks"
+msgstr "Suport"
+
+msgctxt ""
+"model:ir.action.act_window.domain,name:act_purchase_helpdesk_domain_alls_purchase_helpdesk_all"
+msgid "All"
+msgstr "Tots"
+
+msgctxt ""
+"model:ir.action.act_window.domain,name:act_purchase_helpdesk_domain_alls_purchase_helpdesk_done"
+msgid "Done"
+msgstr "Realitzats"
+
+msgctxt ""
+"model:ir.action.act_window.domain,name:act_purchase_helpdesk_domain_alls_purchase_helpdesk_open"
+msgid "Open"
+msgstr "Oberts"
+
+msgctxt ""
+"model:ir.action.act_window.domain,name:act_purchase_helpdesk_domain_alls_purchase_helpdesk_pending"
+msgid "Pending"
+msgstr "Pendents"
+
+msgctxt ""
+"model:ir.action.act_window.domain,name:act_purchase_helpdesk_domain_alls_purchase_helpdesk_unreads"
+msgid "Unreads"
+msgstr "No llegits"
+
+msgctxt ""
+"model:ir.action.act_window.domain,name:act_purchase_helpdesk_domain_purchase_helpdesk_all_my"
+msgid "All"
+msgstr "Tots"
+
+msgctxt ""
+"model:ir.action.act_window.domain,name:act_purchase_helpdesk_domain_purchase_helpdesk_done"
+msgid "Done"
+msgstr "Realitzats"
+
+msgctxt ""
+"model:ir.action.act_window.domain,name:act_purchase_helpdesk_domain_purchase_helpdesk_open"
+msgid "Open"
+msgstr "Oberts"
+
+msgctxt ""
+"model:ir.action.act_window.domain,name:act_purchase_helpdesk_domain_purchase_helpdesk_pending"
+msgid "Pending"
+msgstr "Pendents"
+
+msgctxt ""
+"model:ir.action.act_window.domain,name:act_purchase_helpdesk_domain_purchase_helpdesk_unreads"
+msgid "Unreads"
+msgstr "No llegits"
+
+msgctxt "model:ir.ui.menu,name:menu_purchase_all_helpdesk"
+msgid "All Helpdesks"
+msgstr "Tots els suports"
+
+msgctxt "model:ir.ui.menu,name:menu_purchase_helpdesk"
+msgid "Helpdesks"
+msgstr "Suport"
+
+msgctxt "model:ir.ui.menu,name:menu_purchase_helpdesk_manager"
+msgid "Purchase Helpdesks"
+msgstr "Suport de compras"
+
+msgctxt "model:res.group,name:group_purchase_helpdesk"
+msgid "Helpdesk Purchase"
+msgstr "Suport de compras"
+
+msgctxt "model:purchase.purchase.helpdesk,name:"
+msgid "Purchase - Helpdesk"
+msgstr "Suport - Compra"
+
+msgctxt "selection:helpdesk,kind:"
+msgid "Purchase"
+msgstr "Compra"
