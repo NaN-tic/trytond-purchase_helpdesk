@@ -26,13 +26,13 @@ msgctxt "field:purchase.purchase.helpdesk,id:"
 msgid "ID"
 msgstr "ID"
 
-msgctxt "field:purchase.purchase.helpdesk,rec_name:"
-msgid "Name"
-msgstr "Nom"
-
 msgctxt "field:purchase.purchase.helpdesk,purchase:"
 msgid "Purchase"
 msgstr "Compra"
+
+msgctxt "field:purchase.purchase.helpdesk,rec_name:"
+msgid "Name"
+msgstr "Nom"
 
 msgctxt "field:purchase.purchase.helpdesk,write_date:"
 msgid "Write Date"
@@ -128,14 +128,18 @@ msgctxt "model:ir.ui.menu,name:menu_purchase_helpdesk_manager"
 msgid "Purchase Helpdesks"
 msgstr "Suport de compras"
 
-msgctxt "model:res.group,name:group_purchase_helpdesk"
-msgid "Helpdesk Purchase"
-msgstr "Suport de compras"
-
 msgctxt "model:purchase.purchase.helpdesk,name:"
 msgid "Purchase - Helpdesk"
 msgstr "Suport - Compra"
 
+msgctxt "model:res.group,name:group_purchase_helpdesk"
+msgid "Helpdesk Purchase"
+msgstr "Suport de compras"
+
 msgctxt "selection:helpdesk,kind:"
+msgid "Purchase"
+msgstr "Compra"
+
+msgctxt "view:helpdesk:"
 msgid "Purchase"
 msgstr "Compra"
